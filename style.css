@@ -9,6 +9,7 @@
   background-image: url(img/mv.jpg);
   background-size: cover;
   background-position: bottom;
+  /* width: 100%; */
 }
 .top-title {
   padding-top: 20px;
